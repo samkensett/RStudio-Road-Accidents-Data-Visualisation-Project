@@ -1,7 +1,9 @@
-# INF4000
-The INF4000 Repository provides the code that can be used to answer the following research question: 
+# Road Accidents Visualisations
+This Repository provides the code that can be used to answer the following research question: 
 
 Is the decline in UK road accidents since 2012 consistent across geography, severity, and demographics?
+
+The pdf file illustrates the visualisations that can be produced from this project and evaluates their implications.
 
 The project contains six R files. The preprocessing file should be used first as it includes all required packages, datasets, and relevant wrangling to prepare the data for analysis. After this, the visualisation codes can be run individually. Each Fig file contains the code for one visualisation used to help answer the research question.
 
